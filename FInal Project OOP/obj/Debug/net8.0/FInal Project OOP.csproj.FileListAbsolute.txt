@@ -1,0 +1,14 @@
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\bin\Debug\net8.0\FInal Project OOP.exe
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\bin\Debug\net8.0\FInal Project OOP.deps.json
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\bin\Debug\net8.0\FInal Project OOP.runtimeconfig.json
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\bin\Debug\net8.0\FInal Project OOP.dll
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\bin\Debug\net8.0\FInal Project OOP.pdb
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.AssemblyInfoInputs.cache
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.AssemblyInfo.cs
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.csproj.CoreCompileInputs.cache
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.dll
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\refint\FInal Project OOP.dll
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.pdb
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.genruntimeconfig.cache
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\ref\FInal Project OOP.dll
