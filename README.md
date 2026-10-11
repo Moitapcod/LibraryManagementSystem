@@ -10,19 +10,7 @@ At this initial stage, the system is designed with independent entities having c
 - **`Member`:** Manages user/member profiles participating in the library system.
 - **`Program` (Driver):** The entry point of the application, acting as a prototype test runner for basic entity instantiation.
 
-## 3. Initial Class Diagram (ASCII/Text)
-+-------------------+             +-------------------+
-|      Book         |             |      Member       |
-+-------------------+             +-------------------+
-| - ISBN: string    |             | - MemberId: int   |
-| - Title: string   |             | - Name: string    |
-| - Author: string  |             |                   |
-| - IsBorrowed: bool|             |                   |
-+-------------------+             +-------------------+
-| + DisplayInfo()   |             | + DisplayInfo()   |
-+-------------------+             +-------------------+
-
-## 4. Development Roadmap
+## 3. Development Roadmap
 - **Week 2:** Apply inheritance (`LibraryItem` -> `PhysicalBook`, `EBook`) and implement the `Loan` transaction class.
 - **Week 3:** Implement polymorphism via overdue fee calculation, search features, and file persistence (JSON/CSV).
 - **Week 4:** Finalize test scenarios (Happy path + Error validation) and complete the written report.
