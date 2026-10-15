@@ -12,3 +12,4 @@ C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\
 C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.pdb
 C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.genruntimeconfig.cache
 C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\ref\FInal Project OOP.dll
+C:\Users\Le Cong Bao\source\repos\FInal Project OOP\FInal Project OOP\obj\Debug\net8.0\FInal Project OOP.sourcelink.json
