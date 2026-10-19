@@ -1,0 +1,37 @@
+{
+  "PhysicalBooks": [
+    {
+      "Id": "P001",
+      "Title": "C# in Depth",
+      "Author": "Jon Skeet",
+      "IsBorrowed": true,
+      "ShelfLocation": "Shelf A1"
+    },
+    {
+      "Id": "P002",
+      "Title": "Clean Architecture",
+      "Author": "Robert C. Martin",
+      "IsBorrowed": false,
+      "ShelfLocation": "Shelf A2"
+    }
+  ],
+  "EBooks": [
+    {
+      "Id": "E001",
+      "Title": "CLR via C#",
+      "Author": "Jeffrey Richter",
+      "IsBorrowed": false,
+      "DownloadUrl": "https://lib.com/e001"
+    }
+  ],
+  "Members": [
+    {
+      "MemberId": 1,
+      "Name": "Nguyen Van A"
+    },
+    {
+      "MemberId": 2,
+      "Name": "Tran Thi B"
+    }
+  ]
+}
