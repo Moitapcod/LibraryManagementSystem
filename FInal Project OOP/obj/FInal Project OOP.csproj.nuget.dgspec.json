@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Le Cong Bao\\source\\repos\\FInal Project OOP\\FInal Project OOP\\FInal Project OOP.csproj": {}
+    "C:\\Users\\Le Cong Bao\\source\\repos\\FInal Project OOP\\FInal Project OOP\\Final Project OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Le Cong Bao\\source\\repos\\FInal Project OOP\\FInal Project OOP\\FInal Project OOP.csproj": {
+    "C:\\Users\\Le Cong Bao\\source\\repos\\FInal Project OOP\\FInal Project OOP\\Final Project OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Le Cong Bao\\source\\repos\\FInal Project OOP\\FInal Project OOP\\FInal Project OOP.csproj",
-        "projectName": "FInal Project OOP",
-        "projectPath": "C:\\Users\\Le Cong Bao\\source\\repos\\FInal Project OOP\\FInal Project OOP\\FInal Project OOP.csproj",
+        "projectUniqueName": "C:\\Users\\Le Cong Bao\\source\\repos\\FInal Project OOP\\FInal Project OOP\\Final Project OOP.csproj",
+        "projectName": "Final Project OOP",
+        "projectPath": "C:\\Users\\Le Cong Bao\\source\\repos\\FInal Project OOP\\FInal Project OOP\\Final Project OOP.csproj",
         "packagesPath": "C:\\Users\\Le Cong Bao\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Le Cong Bao\\source\\repos\\FInal Project OOP\\FInal Project OOP\\obj\\",
         "projectStyle": "PackageReference",
