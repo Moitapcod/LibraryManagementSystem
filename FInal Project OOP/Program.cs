@@ -70,11 +70,27 @@ namespace LibraryManagementSystem
 
         static void SeedInitialData(LibraryManager manager)
         {
+            // Danh sách Sách vật lý (PhysicalBook)
             manager.AddItem(new PhysicalBook("P001", "C# in Depth", "Jon Skeet", "Shelf A1"));
             manager.AddItem(new PhysicalBook("P002", "Clean Architecture", "Robert C. Martin", "Shelf A2"));
+            manager.AddItem(new PhysicalBook("P003", "Design Patterns", "Erich Gamma", "Shelf B1"));
+            manager.AddItem(new PhysicalBook("P004", "Refactoring", "Martin Fowler", "Shelf B2"));
+            manager.AddItem(new PhysicalBook("P005", "Code Complete", "Steve McConnell", "Shelf C1"));
+
+            // Danh sách Sách điện tử (EBook)
             manager.AddItem(new EBook("E001", "CLR via C#", "Jeffrey Richter", "https://lib.com/e001"));
+            manager.AddItem(new EBook("E002", "The Pragmatic Programmer", "Andrew Hunt", "https://lib.com/e002"));
+            manager.AddItem(new EBook("E003", "Head First Design Patterns", "Eric Freeman", "https://lib.com/e003"));
+
+            // Danh sách Sách nói (AudioBook)
+            manager.AddItem(new AudioBook("A001", "Domain-Driven Design Audio", "Eric Evans", 420));
+            manager.AddItem(new AudioBook("A002", "Soft Skills Audio", "John Sonmez", 240)); // Nếu tham số là int thì dùng 240
+
+            // Danh sách Thành viên (Member)
             manager.AddMember(new Member(1, "Nguyen Van A"));
             manager.AddMember(new Member(2, "Tran Thi B"));
+            manager.AddMember(new Member(3, "Le Van C"));
+            manager.AddMember(new Member(4, "Pham Thi D"));
         }
 
         static void DisplayAll(LibraryManager manager)
